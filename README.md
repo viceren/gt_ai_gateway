@@ -162,3 +162,4 @@ docker run -d \
 ## 许可证（含署名要求）
 
 [MIT License](LICENSE)（附带署名条款：衍生项目须在页面底部保留署名及本仓库链接，否则需获授权）
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/viceren/gt_ai_gateway)
